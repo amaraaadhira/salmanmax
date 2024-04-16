@@ -1,8 +1,8 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "SalmanBot",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "description": "A simple Facebook Messenger Bot made by Salman Ahmed.",
+    "main": "salman.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "Salman",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
