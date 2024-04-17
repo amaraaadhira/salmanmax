@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://raw.githubusercontent.com/amaraaadhira/salmanmax.git"
+    "url": "git+https://github.com/D-Jukie/miraiv2.git"
   },
-  "author": "D-Jukie",
+  "author": "Salman",
   "license": "GPL-3.0",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.0",
@@ -97,9 +97,9 @@
     "ytdl-core": "^4.11.5"
   },
   "bugs": {
-    "url": "https://raw.githubusercontent.com/amaraaadhira/salmanmax/1a64f66af6d579f89b28b8e0054d1716f62aade0/issues"
+    "url": "https://raw.githubusercontent.com/amaraaadhira/salmanmax/main/issues"
   },
-  "homepage": "https://raw.githubusercontent.com/amaraaadhira/salmanmax/1a64f66af6d579f89b28b8e0054d1716f62aade0#readme",
+  "homepage": "https://raw.githubusercontent.com/amaraaadhira/salmanmax/main/README.md",
   "devDependencies": {
     "node": "^14.21.3"
   },
